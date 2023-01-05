@@ -1,3 +1,7 @@
+## 1.2.3 05-01-2023
+### Added
+- Compat with NC 25
+
 ## 1.2.2 21-02-2022
 ### Added
  - Compat with NC 23
