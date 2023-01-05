@@ -47,4 +47,7 @@ The following markdown plugins are available, more to come, fill a issue if you 
  * Multi rendering engine are available
  * You can choose which filenames are to be used for header/footer content.
 
-  
+
+# Aknowledgments
+
+This is a fork of [gitlab.univ-nantes.fr/uncloud/files_readmemd](https://gitlab.univ-nantes.fr/uncloud/files_readmemd/) as contributing in that private instance is currently not possible for me.
